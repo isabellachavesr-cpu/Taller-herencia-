@@ -1,5 +1,9 @@
 package uniquindio.edu.co.model;
 
+/**
+ * Representa a un empleado del área de ventas de la empresa.
+ */
+
 public class EmpleadoVentas extends Empleado {
     private float totalVentas;
     private float porcentajeComision;

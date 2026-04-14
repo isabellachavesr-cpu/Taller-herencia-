@@ -1,10 +1,12 @@
 package uniquindio.edu.co.model;
 
 import java.util.Scanner;
+
 /**
  * Clase principal del sistema de nómina de empleados.
  * Menú interactivo que permite al usuario registrar empleados, consultar información y calcular la nómina
  */
+
 public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final Empresa empresa = new Empresa ("TechCorp S.A.S");

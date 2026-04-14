@@ -1,5 +1,10 @@
 package uniquindio.edu.co.model;
 
+/**
+ * Clase principal.
+ * Permite registrar, buscar y consultar información de los empleados.
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

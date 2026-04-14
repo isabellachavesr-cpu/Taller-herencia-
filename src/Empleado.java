@@ -1,5 +1,9 @@
 package uniquindio.edu.co.model;
 
+/**
+ * Clase abstracta que representa a un empleado de la empresa.
+ */
+
 public abstract class Empleado {
     private String nombre;
     private String documento;

@@ -1,5 +1,9 @@
 package uniquindio.edu.co.model;
 
+/**
+ * Representa a un empleado de planta de la empresa.
+ */
+
 public class EmpleadoPlanta extends Empleado {
     private String cargo;
     private int horasExtra;

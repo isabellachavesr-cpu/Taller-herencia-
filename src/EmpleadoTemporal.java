@@ -1,5 +1,9 @@
 package uniquindio.edu.co.model;
 
+/**
+ * Representa a un empleado temporal de la empresa.
+ */
+
 public class EmpleadoTemporal extends Empleado {
     private int diasTrabajados;
     private float valorDia;
