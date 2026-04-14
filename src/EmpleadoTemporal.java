@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 public class EmpleadoTemporal extends Empleado {
     private int diasTrabajados;
     private float valorDia;

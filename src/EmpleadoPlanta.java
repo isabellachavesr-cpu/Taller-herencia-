@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 public class EmpleadoPlanta extends Empleado {
     private String cargo;
     private int horasExtra;

@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 public class EmpleadoVentas extends Empleado {
     private float totalVentas;
     private float porcentajeComision;

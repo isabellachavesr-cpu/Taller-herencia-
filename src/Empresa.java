@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 import java.util.ArrayList;
 import java.util.List;
 

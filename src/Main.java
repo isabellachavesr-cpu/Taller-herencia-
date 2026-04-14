@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 import java.util.Scanner;
 /**
  * Clase principal del sistema de nómina de empleados.

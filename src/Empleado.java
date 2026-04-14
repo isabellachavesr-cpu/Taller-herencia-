@@ -1,3 +1,5 @@
+package uniquindio.edu.co.model;
+
 public abstract class Empleado {
     private String nombre;
     private String documento;
