@@ -15,7 +15,7 @@ public class Main {
       int opcion;
       do {
         mostrarMenu();
-        opcion = leerEntero("Seleccione una opción");
+        opcion = leerEntero("Seleccione una opción:");
         switch (opcion) {
             case 1:
                 agregarEmpleadoPlanta();

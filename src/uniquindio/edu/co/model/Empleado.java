@@ -8,7 +8,7 @@ public abstract class Empleado {
     private String nombre;
     private String documento;
     private int edad;
-    private float salarioBase;
+    protected float salarioBase;
     private CategoriaEmpleado categoria;
     private float descuentoSalud;
     private float descuentoPension;
